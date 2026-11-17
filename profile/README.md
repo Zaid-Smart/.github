@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zaid-Smart/.github/main/profile/org-banner.svg" width="100%" alt="ZaidSmart" />
+  <img src="https://raw.githubusercontent.com/Zaid-Smart/.github/main/org-banner.svg" width="100%" alt="ZaidSmart" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## 🧩 Proyectos
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zaid-Smart/.github/main/profile/org-proyectos.svg" width="100%" alt="Proyectos de ZaidSmart" />
+  <img src="https://raw.githubusercontent.com/Zaid-Smart/.github/main/org-proyectos.svg" width="100%" alt="Proyectos de ZaidSmart" />
 </p>
 
 ## 📬 Contacto
@@ -30,4 +30,4 @@
   <a href="https://github.com/Diaz003"><img src="https://img.shields.io/badge/FUNDADOR-ZAID-8a3ffc?style=for-the-badge&labelColor=0f1730" /></a>
 </p>
 
-<p align="center"><sub>Hecho en España 🇪🇸</sub></p>
+<p align="center"><sub>Hecho en España 💚</sub></p>
